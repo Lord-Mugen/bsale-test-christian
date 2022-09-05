@@ -1,0 +1,31 @@
+<%- include ('partials/header') %>
+
+<!-- <main class="container grid" id="productos">
+   
+
+   </div>
+
+</main> -->
+
+<main class="container grid ">
+   <% data.forEach(entry => { %>
+    <article class="card" id="products">
+        <img class="img-fluid" src=<%- entry.url_image %> >
+        <div class="card-content">
+            <h5>
+                <%- entry.name %>
+            </h5>
+            <!-- <h3>Categoria: <%- entry.category %></h3> -->
+            <h5>$ <%- entry.price %></h5>
+            <a class="btn btn-dark" href=product/<%- entry.id %> >Comprar</a>
+        </div>
+    </article>
+
+  <% });  %>
+  <div class="break"></div>
+  
+</main>
+  
+ 
+
+   <%- include ('partials/footer') %>
