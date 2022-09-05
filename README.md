@@ -20,3 +20,6 @@ El proyecto fue realizado con las siguentes tecnologias
 https://abyssinian-radon-2aa.notion.site/Bsale-test-documentaci-n-c67bd0d9fc174aa0abe643c5e5cb3626
 ## deploy
 https://bsale-test-christian.herokuapp.com/
+
+## Mi portafolio 
+https://mugen-portfolio.vercel.app/
