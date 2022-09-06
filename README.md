@@ -22,5 +22,5 @@ https://abyssinian-radon-2aa.notion.site/Bsale-test-documentaci-n-c67bd0d9fc174a
 https://bsale-test-christian.herokuapp.com/
 
 ## Mi portafolio 
-Aqui hay otros proyectos realizados por mi que seguramente te van a interezar.
-https://mugen-portfolio.vercel.app/
+Aqui hay otros proyectos realizados por mi que seguramente te van a interezar
+https://mugen-portfolio.vercel.app/.
